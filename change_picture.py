@@ -16,3 +16,5 @@ path = 'picture_loss'
 nums = len(os.listdir(path))
 print(nums)
 
+
+
