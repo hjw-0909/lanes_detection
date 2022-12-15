@@ -15,3 +15,4 @@ for filename_1 in os.listdir('work_test_sim_shape'):
 path = 'picture_loss'
 nums = len(os.listdir(path))
 print(nums)
+
